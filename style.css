@@ -32,7 +32,41 @@
 
 .featured-flowers{
     display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
 }
+
+.pic-background1 {
+    border-radius: 120px 120px 0px 0px;
+    background: rgb(255, 203, 211);
+    padding: 20px; 
+    width: 200px;
+    height: 230px; 
+  }
+
+  .pic-background2 {
+    border-radius: 120px 120px 0px 0px;
+    background: rgb(147, 233, 241);
+    padding: 20px; 
+    width: 200px;
+    height: 230px; 
+  }
+
+  .pic-background3 {
+    border-radius: 120px 120px 0px 0px;
+    background: rgb(153, 151, 149);
+    padding: 20px; 
+    width: 200px;
+    height: 230px; 
+  }
+
 
 .Group{
     display: flex;
@@ -104,3 +138,28 @@
     background-color: black;
     padding: 100px;
 }
+
+
+.pic-background1 {
+    border-radius: 120px 120px 0px 0px;
+    background: rgb(255, 203, 211);
+    padding: 20px; 
+    width: 200px;
+    height: 230px; 
+  }
+
+  .pic-background2 {
+    border-radius: 120px 120px 0px 0px;
+    background: rgb(147, 233, 241);
+    padding: 20px; 
+    width: 200px;
+    height: 230px; 
+  }
+
+  .pic-background3 {
+    border-radius: 120px 120px 0px 0px;
+    background: rgb(153, 151, 149);
+    padding: 20px; 
+    width: 200px;
+    height: 230px; 
+  }
