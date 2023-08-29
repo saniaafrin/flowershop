@@ -86,3 +86,21 @@
     padding: 80px;
     border-radius: 10px;
 }
+
+.ratings{
+    text-align: center;
+    background-color: rgb(158, 200, 234);
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 80px;
+    border-radius: 10px;
+}
+
+.footer{
+    margin-top: 25px;
+    text-align: center;
+    background-color: black;
+    padding: 100px;
+}
