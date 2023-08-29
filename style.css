@@ -24,3 +24,38 @@
   font-size: 16px;
   margin: 4px 2px;
 }
+
+.featured-pic{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.featured-flowers{
+    display: flex;
+}
+
+.Group{
+    display: flex;
+    justify-content: space-between;
+    background-color: #b1b0b0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+
+.sale{
+    background-color: #FCEEF1;
+    display: flex;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.sale-section{
+    text-align: center;
+}
